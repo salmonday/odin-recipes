@@ -1,0 +1,28 @@
+body {
+    background-color: #997733;
+    color: #2C2311;
+  }
+
+h1, h2, h3, p {
+  background-color: #cd9b37;
+  text-align: center;
+}
+
+ul, ol {
+  list-style-type: none;
+  background: #cd9b37;
+  padding: 20px;
+}
+
+li {
+  text-align: center;
+  padding: 5px;
+}
+
+div {
+  text-align: center;
+}
+
+div li {
+  text-align:justify
+}
